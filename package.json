@@ -1,0 +1,22 @@
+{
+  "name": "minimal-todo",
+  "version": "1.0.0",
+  "description": "minimal-todo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereira4ngel/minimal-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereira4ngel/minimal-todo/issues"
+  },
+  "homepage": "https://github.com/pereira4ngel/minimal-todo#readme",
+  "dependencies": {
+    "@angular/cli": "^10.2.3"
+  }
+}
